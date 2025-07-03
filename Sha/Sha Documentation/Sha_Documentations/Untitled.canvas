@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"09602a294aac89e4","type":"text","text":"**Sha Level Idea**","x":-180,"y":-80,"width":540,"height":160,"color":"1"},
+		{"id":"6e61cc19973e9cfe","type":"text","text":"This level is where we induce a feeling of getting lost. Here, the player will be driving a train through a foggy thick forest and suddenly he doesn't know where to go inducing fear and a feeling of getting lost\n\nGame Mechanics: Train Driving","x":-802,"y":320,"width":342,"height":220},
+		{"id":"4628b0cc397b1b19","type":"text","text":"In this level we try to create a feeling of hope. Here, a rampaging elephant is trying to get a hold of the player on a cliff and he escapes because the elephant looses its footing. \n\nGame Mechanics: Escaping","x":-400,"y":320,"width":368,"height":220},
+		{"id":"5e1a33960f67f4d8","x":20,"y":320,"width":357,"height":220,"type":"text","text":"In this level we will try to create a fear of death. We will try to have an astral projection episode.\n\nGame Mechanics: "}
+	],
+	"edges":[]
+}
