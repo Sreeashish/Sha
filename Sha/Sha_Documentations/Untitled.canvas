@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bde24d73e2040ef0","type":"text","text":"Trail Mechs:\nPlayer connect the path trail to solve puzzles.","x":-840,"y":-540,"width":280,"height":120,"color":"4"},
+		{"id":"7ccefcdace02677e","x":-825,"y":-360,"width":250,"height":60,"color":"4","type":"text","text":"Fragmented Memories provide clue"}
+	],
+	"edges":[
+		{"id":"904e3d9ffe148f1f","fromNode":"bde24d73e2040ef0","fromSide":"bottom","toNode":"7ccefcdace02677e","toSide":"top"}
+	]
+}
